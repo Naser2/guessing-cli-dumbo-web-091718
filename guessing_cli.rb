@@ -22,6 +22,7 @@ def run_guessing_game
 end
 run_guessing_game
 
+#__________________________
 #BASIC testnumber = rand(3)
  
 # print "Type in your guess: "
@@ -38,3 +39,5 @@ run_guessing_game
 #     puts "Your guess is bigger that the hidden number"
 # end
 # end 
+#__________________________
+#SOLUTION
